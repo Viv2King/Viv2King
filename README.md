@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HytileMC Project](https://hytilemc.com)
 
-- 🌱 I’m currently learning **Communications and computer networks**
+- 🌱 I’m currently learning **AI, Robotics Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
