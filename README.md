@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dawooddayah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Viv2King&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dawooddayah&theme=flat&row=1&column=7" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Viv2King&theme=flat&row=1&column=7" alt="GitHub trophies"/>
 </p>
 
 ---
