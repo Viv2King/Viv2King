@@ -25,14 +25,6 @@
 
 ---
 
-### 📫 Contact Me
-
-- **Email:** `dawoodabudaia1@gmail.com`  
-- **Website:** *Coming Soon...*  
-- **Discord:** [`d2vi4_`](https://discord.gg/qhe42UybQG)
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -80,9 +72,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viv2King&show_icons=true&theme=github_dark&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Viv2King&show_icons=true&count_private=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viv2King&theme=github-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viv2King"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viv2King&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viv2King&layout=compact"/>
 </p>
