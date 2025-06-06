@@ -25,16 +25,6 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dawood-abu-dayah-a2021435a/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://instagram.com/d2vi4_/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a>
-  <a href="https://discord.gg/qhe42UybQG" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" width="30" height="30"/></a>
-</p>
-
----
-
 ### 💻 Tech Stack & Tools
 
 #### 🧠 Programming Languages & Frameworks
