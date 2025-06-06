@@ -80,9 +80,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dawooddayah&show_icons=true&theme=github_dark&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Viv2King&show_icons=true&theme=github_dark&count_private=true"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawooddayah&theme=github-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viv2King&theme=github-dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawooddayah&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viv2King&layout=compact&theme=github_dark"/>
 </p>
